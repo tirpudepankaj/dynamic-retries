@@ -19,4 +19,5 @@ Below are the steps to use this lib.
 3. Pass Callable to Retry call method.
 
     `` Retry retry = new Retry()``
+
     `` retry.run(callableInstance, retryConfig) ``
